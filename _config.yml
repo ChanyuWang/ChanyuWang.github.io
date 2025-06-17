@@ -1,10 +1,10 @@
 # Site settings
 title: CY Blog
-SEOTitle: 婵玉的博客 | BY Blog
+SEOTitle: 婵玉的博客 | CY Blog
 header-img: img/post-bg-desk-CY.jpg
 email: chanyuwang07@gmail.com
 description: "You win or you learn"
-keyword: "BY, BY Blog, 婵玉的博客, ChanyuWang, 王婵玉, iOS, Apple, iPhone"
+keyword: "CY, CY Blog, 婵玉的博客, ChanyuWang, 王婵玉, iOS, Apple, iPhone"
 url: "http://ChanyuWang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ChanyuWang/ChanyuWang.github.io" # you code repository
