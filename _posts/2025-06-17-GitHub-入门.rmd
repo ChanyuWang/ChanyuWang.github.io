@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      github 入门
+subtitle:    hello github
+date:       2025-06-17
+author:     CY
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - 入门
+
+---
+# 前言 CY
+
